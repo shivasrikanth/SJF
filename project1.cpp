@@ -22,8 +22,7 @@ int pos,temp;
         {
         	printf("\nBurstTime should be less than 10\n");
         	goto X;
-        	
-		}
+	}
         p[i]=i+1;
     }
     
